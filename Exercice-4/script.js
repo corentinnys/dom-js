@@ -9,7 +9,7 @@
     lastLi.innerHTML= temp
 
 
-    // Move the <h2> of the third section in the second one and vice-versa
+    // Moveinde the <h2> of the third section in the second one and vice-versa
 
     let sectionTitle2 =document.querySelector('section:nth-of-type(2) h2');
     let sectionTitle3 =document.querySelector('section:nth-of-type(3) h2');
